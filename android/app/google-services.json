@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825280839354",
+    "project_id": "cut-go-fad18",
+    "storage_bucket": "cut-go-fad18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825280839354:android:baacf925a20be887534c83",
+        "android_client_info": {
+          "package_name": "com.example.cut_fix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQthsZk-EduKRcwIKOKrE2rvVKuEq0dT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
